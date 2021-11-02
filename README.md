@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emanuele
 - 👀 I’m interested in learning how to create better games
-- 🌱 I’m currently learning C++, SDL2, Unity and one day Unreal
+- 🌱 I’m currently learning C++, SDL2, Unity and Unreal
 - 💞️ I’m looking to collaborate with anyone that could teach me new things
 - 📫 my website is WIP right now...
 

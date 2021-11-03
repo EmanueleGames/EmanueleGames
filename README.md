@@ -3,7 +3,7 @@
 - 👀 I’m interested in learning how to create better games
 - 🌱 I’m currently learning C++, SDL2, Unity and Unreal
 - 💞️ I’m looking to collaborate with anyone that could teach me new things
-- 📧 Contact me: [email](http://emanuelecarrino.altervista.org/contact.php)
+- 📧 Contact me: [Email](http://emanuelecarrino.altervista.org/contact.php)
 - 📫 Website: [Homepage](http://emanuelecarrino.altervista.org)
 
 

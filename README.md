@@ -9,8 +9,8 @@
 
 Highly-motivated computer engineer with years experience in software development
 seeking internship or entry-level position in the video game industry.
-My ambition is to dedicate my skills and develop new ones with the ultimate goal to design,
-create and improve game concepts and mechanics in a satisfactory and highly motivated way,
+My ambition is to dedicate my skills and learn new ones with the ultimate goal to design,
+develop and improve game concepts and mechanics in an efficient and satisfactory way,
 contributing to the achievement of the general objectives of the company.
 <!---
 EmanueleGames/EmanueleGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
